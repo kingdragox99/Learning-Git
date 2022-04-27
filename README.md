@@ -1,2 +1,2 @@
 <h1>helloworld</h1>
-C'est le git de __ARTHUR__ __LEFEVRE__
+C'est le git de <strong>ARTHUR LEFEVRE</strong>
